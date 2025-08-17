@@ -1,0 +1,34 @@
+# ML Learning
+
+This repo tracks my transition from **Data Analytics → ML/AI Research**.  
+It contains step-by-step practice projects using **Scikit-learn, TensorFlow/Keras, and PyTorch**.
+
+---
+
+## Structure
+- `scikit-learn/` → classical ML (pipelines, CV, feature importance)  
+- `tensorflow-keras/` → deep learning (CNNs, callbacks, tf.data)  
+- `pytorch/` → custom loops, datasets, model building  
+- `utils/` → reusable helper functions (plotting, metrics, etc.)  
+
+---
+
+## Completed Projects
+- [x] Iris classification with Logistic Regression (Scikit-learn)
+- [ ] Titanic survival prediction (Scikit-learn pipeline + CV)
+- [ ] Fashion-MNIST classifier (Keras MLP + ConvNet)
+- [ ] PyTorch MNIST baseline (MLP)
+- [ ] PyTorch vs Keras comparison (CIFAR-10)
+
+---
+
+## Goal
+To build hands-on experience with:
+- **Scikit-learn** for tabular ML
+- **TensorFlow/Keras** for fast prototyping
+- **PyTorch** for research flexibility
+
+Each project will include:
+- Clean, reproducible code
+- Metrics + plots
+- Short markdown report of results

@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+
+# Notebooks
+.ipynb_checkpoints
+
+# Data
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+*.zip
+
+# Models
+models/
+*.h5
+*.pt
+*.pth
+*.keras
+*.ckpt
+
+# Environments
+.venv/
+env/
+venv/
+*.egg-info/
