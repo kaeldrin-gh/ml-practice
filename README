@@ -1,34 +1,13 @@
-# ML Learning
+# ML Practice
 
-This repo tracks my transition from **Data Analytics → ML/AI Research**.  
-It contains step-by-step practice projects using **Scikit-learn, TensorFlow/Keras, and PyTorch**.
+A personal collection of machine learning and deep learning notebooks and scripts used for study, learning, practice, and experimentation.
 
----
+I am still polishing my old notebooks and will upload them here gradually.
 
-## Structure
-- `scikit-learn/` → classical ML (pipelines, CV, feature importance)  
-- `tensorflow-keras/` → deep learning (CNNs, callbacks, tf.data)  
-- `pytorch/` → custom loops, datasets, model building  
-- `utils/` → reusable helper functions (plotting, metrics, etc.)  
+This repository gathers work across classical machine learning and modern deep learning frameworks, with a focus on reproducible examples, training utilities, and small experiments to explore new ideas.
 
----
+## Contents
 
-## Completed Projects
-- [x] Iris classification with Logistic Regression (Scikit-learn)
-- [ ] Titanic survival prediction (Scikit-learn pipeline + CV)
-- [ ] Fashion-MNIST classifier (Keras MLP + ConvNet)
-- [ ] PyTorch MNIST baseline (MLP)
-- [ ] PyTorch vs Keras comparison (CIFAR-10)
-
----
-
-## Goal
-To build hands-on experience with:
-- **Scikit-learn** for tabular ML
-- **TensorFlow/Keras** for fast prototyping
-- **PyTorch** for research flexibility
-
-Each project will include:
-- Clean, reproducible code
-- Metrics + plots
-- Short markdown report of results
+- `scikit-learn/` — Classical ML: pipelines, cross-validation, feature engineering, and importance.
+- `tensorflow-keras/` — TensorFlow / Keras experiments: CNNs, tf.data pipelines, callbacks, and training utilities.
+- `pytorch/` — PyTorch examples: custom datasets, training loops, and model definitions.
