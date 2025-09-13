@@ -8,4 +8,4 @@ I am still polishing my old notebooks and will upload them here gradually.
 
 - `scikit-learn/` — Classical ML: pipelines, cross-validation, feature engineering, and importance.
 - `tensorflow-keras/` — TensorFlow / Keras experiments: CNNs, tf.data pipelines, callbacks, and training utilities.
-- `pytorch/` — PyTorch examples: custom datasets, training loops, and model definitions.
+- `transformers/` — Transformers examples: fine-tuning, generating comparison, paramaters handling.
