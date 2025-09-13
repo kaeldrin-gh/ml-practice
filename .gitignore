@@ -16,6 +16,7 @@ datasets/
 *.tsv
 *.xlsx
 *.zip
+transformers/results/
 
 # Models
 models/
