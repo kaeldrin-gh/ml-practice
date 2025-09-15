@@ -17,7 +17,8 @@ datasets/
 *.xlsx
 *.zip
 transformers/results/
-
+transformers/logs/
+transformers/ner-bert/
 # Models
 models/
 *.h5
