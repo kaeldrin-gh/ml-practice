@@ -8,6 +8,7 @@ __pycache__/
 
 # Notebooks
 .ipynb_checkpoints
+transformers/*/
 
 # Data
 data/
